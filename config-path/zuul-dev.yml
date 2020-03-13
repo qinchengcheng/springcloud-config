@@ -19,3 +19,5 @@ token:
 zuul:
   routes:
     dm-user-consumer:  /user/**
+qincc:
+  999999
